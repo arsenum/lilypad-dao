@@ -1,1 +1,14 @@
-
+[
+  {
+    "name":"Demonet",
+    "url":"https://raw.githubusercontent.com/arsenum/demonet/refs/heads/main/config.toml"
+  },
+  {
+    "name":"Orbit",
+    "url":"https://raw.githubusercontent.com/arsen3d/orbit/refs/heads/main/config.toml"
+  },
+  {
+    "name":"Rare Compute",
+    "url":"https://raw.githubusercontent.com/RareCompute/dashboard/refs/heads/main/config.toml"
+  }
+]
